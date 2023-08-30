@@ -1,0 +1,25 @@
+al abrir el juego puedo ver todas las partidas disponibles 
+para poder entrar a una partia recien ahi me pide el nombre de usuario -> nombre del jugador
+nombre de la partida -> las partidas cuentas con contraselas publicas o provadas  -> al crear una partida puedo elegir con cuanta gente y los detalles y maximo y minimo de jugadores 
+solo se puede jugar un partida a la vez 
+el chat vive en el scope de una partida 
+
+
+
+si la partida no inicio los juadores se pueden ir 
+si la partida ya inicio los jugadores no pueden abandonar 
+si el host se va en el loby se cancela la partida 
+para unirme elejir a que partida unitme 
+la clase jugador tiene un campo para poner en que posicion se encuentra en la mesa 
+crear partida != de iniciar partida 
+precicion a nivel de distintas cartas 
+superinfeccion no va en df
+
+
+requierimientos funcionales : son las cosas que el sistema provee al usuario, lo que el usuario puede hacer con el sistema 
+
+
+
+
+
+diferencia entre query parameter y url parameter
